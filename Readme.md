@@ -1,7 +1,7 @@
 # Mission 2
 
 ## Part 0
-[Link: https://4puoap.buildship.run/task3-142e8146f830
+[Link: https://drive.google.com/drive/folders/1BhFqWpMguHZpSV6Hl-tvFrZ-1aATHfUO?usp=drive_link
 
 ## Part1 
 Вопрос 1. Зачем нужен ssh? Ответ на пару предложений.
